@@ -11,6 +11,8 @@ nav{
     justify-content: center;
     align-items: center;
     position: relative;
+    margin: 0%;
+    padding: 0%;
 
 }
 
@@ -39,7 +41,7 @@ nav{
 
     .items{
         height: 50px;
-        width: 100px;
+        width: 100%;
         border-bottom: 1px solid #fff;
         line-height:50px ;
     }
