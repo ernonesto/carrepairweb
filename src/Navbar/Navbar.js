@@ -7,11 +7,11 @@ export default function Navbar(){
 return (
     <nav>
        <ul className="liste">
-
-            <li className="items">About us |</li>
             <li className="items">Home |</li>
+            <li className="items">About Us |</li>
             <li className="items">Services |</li>
-            <li className="items">Contact us </li>
+            <li className="items">Contact Us | </li>
+            <li className="items">Our Locations </li>
 
        </ul>  
        <button className="btn">BTN</button>
